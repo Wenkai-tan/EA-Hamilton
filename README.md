@@ -2,7 +2,7 @@
 
 ## Overview
 This code provides the implementation for theory and experiments within "Elasticity‑Aware Neural Hamiltonian Fields for Mesh‑Free Hyperelastic Simulation".
-The implementation is built upon PyTorch and kaolin libraries.
+# The implementation is built upon PyTorch and kaolin libraries.
 
 ## Installation
 conda create -n pienerf python=3.10
@@ -19,4 +19,5 @@ pip install kaolin==0.17.0 -f https://nvidia-kaolin.s3.us-east-2.amazonaws.com/t
       version = {0.17.0},
       url={\url{https://github.com/NVIDIAGameWorks/kaolin}}
 }
+
 ```
